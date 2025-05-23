@@ -1,4 +1,5 @@
-
+# Introduction
+This project focuses on the integration of the NXP S32K3X8EVB board into the QEMU emulator. The board is based on the S32K358 System-on-Chip (SoC), which features an ARM Cortex-M7 processor and several on-chip peripherals including LPUART and PIT. The objective is to enable full emulation of this embedded platform to support development and debugging activities in a virtualized environment.
 
 # Commands for Testing the Project
 
